@@ -23,7 +23,7 @@ Add the following dependenc< in your build.gradle file (app):
 ```groovy
 dependencies {
     ...
-    implementation 'com.github.GI4-0:GI4.0-Library-Android:1.0.0'
+    implementation 'com.github.GI4-0:GI4.0-Library-Android:1.1.0'
     ...
 }
 ```

@@ -1,2 +1,2 @@
 install:  
-  mvn install:install-file -Dfile='gi40lib.aar' -DgroupId='de.roteliste' -DartifactId='gi40lib' -Dversion='1.0.0' -Dpackaging='aar' -DpomFile='gi40lib.pom'
+  mvn install:install-file -Dfile='gi40lib.aar' -DgroupId='de.roteliste' -DartifactId='gi40lib' -Dversion='1.1.0' -Dpackaging='aar' -DpomFile='gi40lib.pom'
