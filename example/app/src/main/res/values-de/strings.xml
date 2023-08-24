@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GI4.0 Library Example</string>
+    <string name="button_text_search_function">Suche öffnen</string>
+    <string name="button_text_scan_function">Scan öffnen</string>
+    <string name="button_text_history_function">Historie öffnen</string>
+    <string name="button_text_product_function">Product öffnen</string>
+</resources>

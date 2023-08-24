@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GI4.0 Library Example</string>
+    <string name="button_text_search_function">Open search</string>
+    <string name="button_text_scan_function">Open scan</string>
+    <string name="button_text_history_function">Open history</string>
+    <string name="button_text_product_function">Open product</string>
+</resources>
