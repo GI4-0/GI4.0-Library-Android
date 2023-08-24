@@ -18,7 +18,7 @@ repositories {
 
 ### Step 2
 
-Add the following dependenc< in your build.gradle file (app):
+Add the following dependency in your build.gradle file (app):
 
 ```groovy
 dependencies {
