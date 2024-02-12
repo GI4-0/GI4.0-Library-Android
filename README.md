@@ -6,7 +6,7 @@ The library is delivered as an build artifact on a Maven repository. Please foll
 
 ## Step 1
 
-Add the jitpack repository in your build.gradle or settings.gralde
+Add the jitpack repository in your build.gradle or settings.gradle
 
 ```groovy
 repositories {

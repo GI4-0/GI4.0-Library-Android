@@ -51,7 +51,7 @@ private fun LibraryUsageExample() {
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        LibraryUsageExampleDefinition.values().forEach { definition ->
+        LibraryUsageExampleDefinition.entries.forEach { definition ->
             Button(
                 modifier = Modifier.padding(8.dp),
                 onClick = { definition.onClick(context) }) {
